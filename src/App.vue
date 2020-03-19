@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="container my-5">
+  <div id="#app" class="container my-5">
     <div class="row mb-3">
       <div class="col-md-9">
         <h1>My online store</h1>
@@ -41,6 +41,3 @@ export default {
   },
 };
 </script>
-<style>
-  /* Nothing for now */
-</style>
