@@ -1,6 +1,7 @@
 # my-online-store
 
 > A Vue.js project
+> Still in Dev.-mode
 
 ## Build Setup
 
